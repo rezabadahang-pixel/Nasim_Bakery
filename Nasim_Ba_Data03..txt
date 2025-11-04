@@ -1,0 +1,206 @@
+{
+  "breads": [
+    "focaccia",
+    "shirmal"
+  ],
+  "materials": [
+    {
+      "name": "Behbood Dahande",
+      "price": 700000
+    },
+    {
+      "name": "Butter",
+      "price": 150000
+    },
+    {
+      "name": "Cheese",
+      "price": 350000
+    },
+    {
+      "name": "Chocolate",
+      "price": 2000000
+    },
+    {
+      "name": "Coffee Mate",
+      "price": 400000
+    },
+    {
+      "name": "Darchin",
+      "price": 500000
+    },
+    {
+      "name": "Date(Khorma)",
+      "price": 500000
+    },
+    {
+      "name": "Egg",
+      "price": 150000
+    },
+    {
+      "name": "Flour",
+      "price": 75000
+    },
+    {
+      "name": "Ghalat",
+      "price": 600000
+    },
+    {
+      "name": "hel",
+      "price": 1500000
+    },
+    {
+      "name": "Jo Flour",
+      "price": 100000
+    },
+    {
+      "name": "Kamel Flour",
+      "price": 100000
+    },
+    {
+      "name": "Keshmesh",
+      "price": 500000
+    },
+    {
+      "name": "Milk",
+      "price": 60000
+    },
+    {
+      "name": "Mokhamer",
+      "price": 350000
+    },
+    {
+      "name": "Notella",
+      "price": 850000
+    },
+    {
+      "name": "Oil",
+      "price": 130000
+    },
+    {
+      "name": "Olive",
+      "price": 400000
+    },
+    {
+      "name": "Olive Oil",
+      "price": 700000
+    },
+    {
+      "name": "Pinat Butter",
+      "price": 350000
+    },
+    {
+      "name": "Pitza Cheese",
+      "price": 400000
+    },
+    {
+      "name": "Rice Flour",
+      "price": 250000
+    },
+    {
+      "name": "Rogen",
+      "price": 400000
+    },
+    {
+      "name": "Saboos Gandom",
+      "price": 300000
+    },
+    {
+      "name": "Sahar Berger",
+      "price": 800000
+    },
+    {
+      "name": "Salt",
+      "price": 140000
+    },
+    {
+      "name": "Suger",
+      "price": 70000
+    },
+    {
+      "name": "Val nut",
+      "price": 1200000
+    },
+    {
+      "name": "Vanilla",
+      "price": 1500000
+    },
+    {
+      "name": "Zanjefil",
+      "price": 1000000
+    }
+  ],
+  "recipes": [
+    {
+      "bread": "focaccia",
+      "material": "Olive Oil",
+      "qty": 50
+    },
+    {
+      "bread": "focaccia",
+      "material": "Flour",
+      "qty": 500
+    },
+    {
+      "bread": "focaccia",
+      "material": "Salt",
+      "qty": 10
+    },
+    {
+      "bread": "shirmal",
+      "material": "Flour",
+      "qty": 500
+    },
+    {
+      "bread": "shirmal",
+      "material": "Milk",
+      "qty": 150
+    },
+    {
+      "bread": "shirmal",
+      "material": "Mokhamer",
+      "qty": 10
+    },
+    {
+      "bread": "shirmal",
+      "material": "Egg",
+      "qty": 70
+    },
+    {
+      "bread": "shirmal",
+      "material": "Salt",
+      "qty": 5
+    },
+    {
+      "bread": "shirmal",
+      "material": "Suger",
+      "qty": 50
+    },
+    {
+      "bread": "shirmal",
+      "material": "Butter",
+      "qty": 50
+    },
+    {
+      "bread": "shirmal",
+      "material": "Vanilla",
+      "qty": 6
+    },
+    {
+      "bread": "shirmal",
+      "material": "hel",
+      "qty": 3
+    }
+  ],
+  "sales": [
+    {
+      "bread": "focaccia",
+      "benefit": 300,
+      "num": 1
+    },
+    {
+      "bread": "shirmal",
+      "benefit": 100,
+      "num": 1
+    }
+  ]
+}
